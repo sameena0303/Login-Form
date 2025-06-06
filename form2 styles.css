@@ -1,0 +1,22 @@
+.container{
+    margin: auto;
+    width: 300px;
+    background-color: green;
+    padding: 20px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+input{
+    border: 0;
+    border-bottom: 2px solid rgb(192, 59, 59);
+    margin-left: 1opx;
+    height: 5px;
+    padding: 10px;
+}
+.submit{
+    border: 0;
+    border-bottom: 2px solid grey;
+    width: 150px;
+    padding: 0;
+    height: 20px;
+}
